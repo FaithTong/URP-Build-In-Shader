@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Material
+  m_Shader: {fileID: 4800000, guid: de0cde91100a10b49a4b9d7b52f612ce, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - FlakeMap:
+        m_Texture: {fileID: 2800000, guid: 73f75d95d53763844bff34039ff3dfdb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - NormalMap:
+        m_Texture: {fileID: 2800000, guid: 73f75d95d53763844bff34039ff3dfdb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - OcclussionMap:
+        m_Texture: {fileID: 2800000, guid: 9b82b11cc61354a4f8cd12ce3090825e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakeMap:
+        m_Texture: {fileID: 2800000, guid: ab9f044d004b1d045b2cd6a48cfcc3ac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: 041d598d61b9c9441b81bce86c085614, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - ClearCoatContrast: 1
+    - ClearCoatCurveFactor: 1
+    - ClearCoatFacingReflectivity: 0.1
+    - ClearCoatPerpendicularReflectivity: 1
+    - ClearCoatWeight: 0.45
+    - EdgeFalloffCurveFactor: 0.3
+    - Facing_Reflection: 1
+    - FalkeStrength: 0.168
+    - FlakeScale: 11
+    - FlakeStrength: 1
+    - Flake_Density: 8.68
+    - Flake_Reflection: 1.62
+    - Glossiness: 1
+    - GlossinessCurveFactor: 0.3
+    - PerpendicularGlossiness: 0
+    - SpecularCurveFactor: 0.3
+    - SpecularFacingReflectivity: 0.1
+    - SpecularPerpendicularReflectivity: 0.3
+    - SpecularWeight: 0.1
+    - _EdgeFactor: 0.67
+    - _FacingReflection: 0.172
+    - _FacingSpecular: 0.916
+    - _FlakeDensity: 20
+    - _FlakeFactor: 0.066
+    - _FlakeFactor_1: 2.2
+    - _FlakeReflection: 1.24
+    - _Occlusion: 1
+    - _PerpendicularReflection: 0.862
+    - _PerpendicularSpecular: 0.11
+    - _ReflectionContrast: 1
+    - _ReflectionFactor: 3.81
+    - _Smoothness: 0.141
+    - _SpecularFactor: 2.92
+    m_Colors:
+    - ClearCoatColor: {r: 1, g: 1, b: 1, a: 1}
+    - EdgeFalloffColor: {r: 0, g: 0, b: 0, a: 0}
+    - EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - PigmentColor: {r: 1, g: 1, b: 1, a: 1}
+    - SpecularColor: {r: 0.14901961, g: 0.14901961, b: 0.14901961, a: 0}
+    - _ClearCoatColor: {r: 0.38679248, g: 0.38679248, b: 0.38679248, a: 0}
+    - _EdgeColor: {r: 0.0110359555, g: 0.022513567, b: 0.0754717, a: 0}
+    - _EmissionColor: {r: 0.004, g: 0.004, b: 0.004, a: 1}
+    - _PigmentColor: {r: 0.03529411, g: 0.12457681, b: 0.36078432, a: 0}
+    - _SpecularColor: {r: 0.107952945, g: 0.10976837, b: 0.12156863, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &313619792406258953
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2
