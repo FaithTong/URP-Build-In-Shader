@@ -259,5 +259,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: FlowingLight
       objectReference: {fileID: 0}
+    - target: {fileID: 7860912975301801812, guid: 6d4c58da2b721af40bfaff6402b260dd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 11d183724933d9d4e86df46ccad8a860, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d4c58da2b721af40bfaff6402b260dd, type: 3}

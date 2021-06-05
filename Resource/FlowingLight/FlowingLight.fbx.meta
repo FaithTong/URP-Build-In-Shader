@@ -3,7 +3,27 @@ guid: 6d4c58da2b721af40bfaff6402b260dd
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flowingLight
+    second: {fileID: 2100000, guid: 72ccac269ffe4f545bfe2cef7b114cf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightBlack
+    second: {fileID: 2100000, guid: 2033c711ac3cdf94dbff557e17ada58f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightChrome
+    second: {fileID: 2100000, guid: 97ecbea3309e5cd49b4c559b9d74de2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightRed
+    second: {fileID: 2100000, guid: 530f71c95cdc9d245909a1c2c41660aa, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

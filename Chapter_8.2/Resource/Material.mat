@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Material
-  m_Shader: {fileID: 4800000, guid: 959a3dca7e94c7149ac8328e69274d92, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 89382934d70550b449358e156463bdc9, type: 3}
   m_ShaderKeywords: _LIGHTSWITCH_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -32,50 +32,30 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture2D_4784E24:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture2D_5413E5D6:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture2D_CD75FE9F:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 2ec6e1532acb1254f9f3797b5d82db44, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 2cd242c9999e92b4ca96dab876cfaf13, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 9a81f1a59f171804e84fce76584bdcb7, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 5e98de278b2ccc14f89b76b85596a3f3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 978fb0f7415474040bd08631aa3ff60f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - LightON: 0
-    - Vector1_22001588: 1
-    - Vector1_31214096: 0
-    - Vector1_7A684A2F: 1
-    - Vector1_943EE741: 0
-    - _BumpScale: 0.563
-    - _Bumpiness: 1
-    - _FlowSpeed: 1.66
-    - _LightSwitch: 1
-    - _Metallic: 0.344
-    - _OcclusionStrength: 0.695
-    - _Smoothness: 0.656
+    - _BumpScale: 1
+    - _FlowSpeed: 1
+    - _LightSwitch: 0
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _Smoothness: 0.425
     m_Colors:
-    - Color_40FB596A: {r: 1, g: 1, b: 1, a: 0}
-    - Color_53977F96: {r: 3.441591, g: 2.648764, b: 1.693767, a: 0}
-    - _BaseColor: {r: 0.6415094, g: 0.3661445, b: 0.3661445, a: 0}
-    - _LightColor: {r: 1.9857059, g: 2.0806615, b: 0.422021, a: 0}
+    - _BaseColor: {r: 0.9622642, g: 0.7122943, b: 0.21333215, a: 0}
+    - _LightColor: {r: 3.441591, g: 2.648764, b: 1.693767, a: 0}
   m_BuildTextureStacks: []
