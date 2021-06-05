@@ -51,11 +51,11 @@ Material:
     m_Floats:
     - _BumpScale: 1
     - _FlowSpeed: 1
-    - _LightSwitch: 0
+    - _LightSwitch: 1
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Smoothness: 0.425
     m_Colors:
-    - _BaseColor: {r: 0.9622642, g: 0.7122943, b: 0.21333215, a: 0}
-    - _LightColor: {r: 3.441591, g: 2.648764, b: 1.693767, a: 0}
+    - _BaseColor: {r: 0.9607843, g: 0.71107936, b: 0.21176468, a: 0}
+    - _LightColor: {r: 2.4594648, g: 1.7218825, b: 0.44024423, a: 0}
   m_BuildTextureStacks: []

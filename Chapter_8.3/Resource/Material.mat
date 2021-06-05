@@ -22,7 +22,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Material
   m_Shader: {fileID: 4800000, guid: 959a3dca7e94c7149ac8328e69274d92, type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: _LIGHTSWITCH_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -51,11 +51,11 @@ Material:
     m_Floats:
     - _BumpScale: 1
     - _FlowSpeed: 1
-    - _LightSwitch: 0
+    - _LightSwitch: 1
     - _Metallic: 0
     - _OcclusionStrength: 1
-    - _Smoothness: 0.524
+    - _Smoothness: 0.126
     m_Colors:
-    - _BaseColor: {r: 1, g: 0.6985763, b: 0.13679248, a: 0}
-    - _LightColor: {r: 3.4, g: 2.6, b: 1.7, a: 1}
+    - _BaseColor: {r: 1, g: 0.7723944, b: 0.18400002, a: 0}
+    - _LightColor: {r: 2.4645553, g: 1.6749194, b: 0.85027164, a: 1}
   m_BuildTextureStacks: []
