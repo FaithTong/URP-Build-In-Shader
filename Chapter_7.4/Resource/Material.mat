@@ -59,13 +59,13 @@ Material:
     - SpecularFacingReflectivity: 0.1
     - SpecularPerpendicularReflectivity: 0.3
     - SpecularWeight: 0.1
-    - _EdgeFactor: 0.67
+    - _EdgeFactor: 0.9
     - _FacingReflection: 0.172
     - _FacingSpecular: 0.916
     - _FlakeDensity: 20
     - _FlakeFactor: 0.066
     - _FlakeFactor_1: 2.2
-    - _FlakeReflection: 1.24
+    - _FlakeReflection: 2.52
     - _Occlusion: 1
     - _PerpendicularReflection: 0.862
     - _PerpendicularSpecular: 0.11
@@ -80,9 +80,9 @@ Material:
     - PigmentColor: {r: 1, g: 1, b: 1, a: 1}
     - SpecularColor: {r: 0.14901961, g: 0.14901961, b: 0.14901961, a: 0}
     - _ClearCoatColor: {r: 0.38679248, g: 0.38679248, b: 0.38679248, a: 0}
-    - _EdgeColor: {r: 0.0110359555, g: 0.022513567, b: 0.0754717, a: 0}
+    - _EdgeColor: {r: 0.16078432, g: 0.16078432, b: 0.16078432, a: 0}
     - _EmissionColor: {r: 0.004, g: 0.004, b: 0.004, a: 1}
-    - _PigmentColor: {r: 0.03529411, g: 0.12457681, b: 0.36078432, a: 0}
+    - _PigmentColor: {r: 0.04313725, g: 0.26296788, b: 0.4392157, a: 0}
     - _SpecularColor: {r: 0.107952945, g: 0.10976837, b: 0.12156863, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &313619792406258953
